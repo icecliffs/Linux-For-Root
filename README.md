@@ -7,7 +7,7 @@ Linux binfmt_elf core dump buffer overflow
 
 - CVE-2019-13272
 
-Date:
+Change logs:
 
 - 2020-04-13 - 2.2.xx
 - 2020-04-12 - 2.2.26
