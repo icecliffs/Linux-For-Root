@@ -5,5 +5,12 @@
 
 Linux binfmt_elf core dump buffer overflow
 
-##### How to using
+- CVE-2019-13272
 
+Date:
+
+- 2020-04-13 - 2.2.xx
+- 2020-04-12 - 2.2.26
+- 2020-04-11 - 2.2.27
+
+##### How to using
